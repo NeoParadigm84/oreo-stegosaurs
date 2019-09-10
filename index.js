@@ -1,6 +1,6 @@
 //Spotify Access Token
 let spotifyToken =
-  "BQDxiey7FOT5gc1Lcs17cHO0Rs2Di6c2HiizyWhCYNXkYPoXAL2_B--CUK6pJuFN-tjfNUf5KWg-lBs9m1rZpiJrhoD6Nh_cQWF0jOrFPohEgH5gtOCsSJj6hbbgcI7ZYRId46brK4o8IKVuTlpSEhTYsJMgiZ6MQf4hjwk";
+  "BQDeYFId8j6gag3zYoumA-oAg8reLgU_9nD7KcOC7_PTd4nC9kLbu_VwcrHxt3yj5kW1JQoA_HERcm5OUdd1UrkVtyxM3jhicUQhsW4Z4yNg8Q-4zQFohTPqZN-vz8CbCYGdYwp9br2Oln9KxIs6CRvFoKjCO9zjFOwZ5gE";
 
 //function to check if an element is empty
 function isEmpty(element) {
